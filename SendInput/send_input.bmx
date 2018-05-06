@@ -1,3 +1,6 @@
+'Name:	SendInput
+'Desc:	Send keyboard press programmatically
+
 Strict
 
 Const INPUT_MOUSE:Int = 0
